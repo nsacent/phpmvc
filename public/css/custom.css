@@ -1,0 +1,27 @@
+@CHARSET "ISO-8859-1";
+
+body{
+	background: silver;
+}
+
+#header{
+	background:#23547c;
+	padding: 20px; 
+}
+
+#content{
+	padding: 20px;
+	background: #fff;
+	min-height:200px;
+}
+
+#footer{
+	background:#2b6697;
+	padding: 20px;
+}
+
+.well{
+	
+	margin-bottom: 0px;
+	
+}
