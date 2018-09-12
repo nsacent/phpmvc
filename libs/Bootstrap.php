@@ -40,6 +40,7 @@
  	 * (Optional) Set a custom path to controllers
  	 * @param string $path
  	 */
+
  	public function setControllerPath($path)
  	{
  		$this->_controllerPath = trim($path, '/') . '/';
